@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: sathish8329/sportziaapp:2744
+        image: sathish8329/sportziaapp:2747
         ports:
         - containerPort: 3000  # Frontend is served on port 3000
         livenessProbe:
